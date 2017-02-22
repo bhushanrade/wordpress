@@ -23,13 +23,13 @@
 define('DB_NAME', 'sampledb');
 
 /** MySQL database username */
-define('DB_USER', 'userBB3');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'AYVR0AbDELWsCF2f');
+define('DB_PASSWORD', 'root');
 
 /** MySQL hostname */
-define('DB_HOST', '172.30.10.21:3306');
+define('DB_HOST', 'sampledb.cnl6x87rqwuo.us-west-2.rds.amazonaws.com:3306');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
